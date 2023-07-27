@@ -1,0 +1,6 @@
+Species,Length_Category,count,prop
+setosa,less_than_3,46,1
+versicolor,btn_3_and_5,49,0.98
+versicolor,greater_than_5,1,0.02
+virginica,btn_3_and_5,9,0.18
+virginica,greater_than_5,41,0.82
